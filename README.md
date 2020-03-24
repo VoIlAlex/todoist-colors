@@ -10,6 +10,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install todoist-colors
 ```
 
+## Usage
+
+```
+import todoist_colors
+todoist_colors.RED
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
