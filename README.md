@@ -6,8 +6,15 @@ Color aliases for Todoist API. Look [here](https://developer.todoist.com/sync/v8
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```
+```bash
 pip install todoist-colors
+```
+
+## Usage
+
+```python
+import todoist_colors
+todoist_colors.RED # 31
 ```
 
 ## Contributing
